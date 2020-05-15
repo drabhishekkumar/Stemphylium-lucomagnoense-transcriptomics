@@ -1,4 +1,4 @@
-Here is the summary of N50 statistics
+Here is the summary of N50 statistics for denovo transcriptome of marine Stemphylium lucomagnoense 
 -------------------------------------------
 
 Total length of contigs:	110739726 bp
