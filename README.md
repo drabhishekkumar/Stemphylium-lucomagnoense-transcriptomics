@@ -1,4 +1,4 @@
-Marine Stemphylium lucomagnoense transcriptomics
+denovo transcriptomics of narine Stemphylium lucomagnoense 
 ----------------------------------------------------------------------------------------------------------------------------
 We have provided assembled transcriptomic sequences of marine Stemphylium lucomagnoense.
 
