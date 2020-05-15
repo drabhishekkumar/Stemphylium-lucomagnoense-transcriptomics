@@ -1,4 +1,5 @@
 Here is the summary of N50 statistics
+-------------------------------------------
 
 Total length of contigs:	110739726 bp
 Total number of contigs:	350657
@@ -7,3 +8,4 @@ N50 stats:			50% of total contig length is contained in the 26298 contigs >= 504
 N75 stats:			75% of total contig length is contained in the 142056 contigs >= 176 bp
 Total GC count:			59818129 bp
 GC %:				54.02 %
+---------------------------------------------------------------------------------------------
