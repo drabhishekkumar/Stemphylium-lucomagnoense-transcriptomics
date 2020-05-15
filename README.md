@@ -1,3 +1,5 @@
 Stemphylium-lucomagnoense-transcriptomics
+-----------------------------------------
+We have provided assembled transcriptomic sequences of Stemphylium lucomagnoense.
 
-We have provide assembled transcriptome of Stemphylium-lucomagnoense.
+---------------------------------------------------------------------------------------
