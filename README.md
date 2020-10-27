@@ -8,11 +8,13 @@ Assembled fasta file is available - APMZ-2_consensus.fasta.tar.bz2
 -----------------------------------------------------------------------------------------------------------------------------
 This dataset is available as collaborative affords as 
 
-(a) Prof. Dr. Eric Records, Aix-Marseille Université, INRA UMR1163, Biodiversité et Biotechnologie Fongiques, Marseille, France (Contact person for Biotechnological experiments)
+-----------
+|PI|Institute| Location| Roles|
+|-------:|-------:|-------:|-------:|
+|(a) Prof. Dr. Eric Records|Aix-Marseille Université, INRA UMR1163, Biodiversité et Biotechnologie Fongiques |Marseille, France|Biotechnological experiments|
+|(b)Dr. Abhishek Kumar|Computational Genome Biology Lab, Institute of Bioinformatics|Bangalore, India|Bioinformatics data analyses|
 
-(b)Dr. Abhishek Kumar, Computational Genome Biology Lab, Institute of Bioinformatics, Bangalore, India 
-(Contact person for Bioinformatics data analyses)
-
+---------
 
 #Marinefungi; #Stemphylium lucomagnoense
 
